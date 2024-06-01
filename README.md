@@ -6,7 +6,7 @@
 
 - 🚀 Always ready for new challenges and adventures
 - 🌱 I’m currently learning Fullstack on FactoriaF5
-- 💡 I believe, if you want different results, don't do the same thing.
+- 💡 If you want different results, don't do the same thing.
 
 ## 📫Connect with me 
 
